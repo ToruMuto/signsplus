@@ -292,13 +292,13 @@ hero
           transform: scale(120%, 120%);
 }
 .hero .hero_container .hero_img .src1 {
-  background-image: url(/img/mv_bg01.jpg);
+  background-image: url(https://github.com/ToruMuto/signsplus/blob/main/img/cafe_bg01.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .hero .hero_container .hero_img .src2 {
-  background-image: url(/img/mv_bg02.jpg);
+  background-image: url(https://github.com/ToruMuto/signsplus/blob/main/img/cafe_bg02.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -306,7 +306,7 @@ hero
           animation-delay: 5s;
 }
 .hero .hero_container .hero_img .src3 {
-  background-image: url(/img/mv_bg03.jpg);
+  background-image: url(https://github.com/ToruMuto/signsplus/blob/main/img/cafe_bg03.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -314,7 +314,7 @@ hero
           animation-delay: 10s;
 }
 .hero .hero_container .hero_img .src4 {
-  background-image: url(/img/mv_bg04.jpg);
+  background-image: url(https://github.com/ToruMuto/signsplus/blob/main/img/cafe_bg04.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
