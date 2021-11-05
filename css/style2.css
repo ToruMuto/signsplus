@@ -513,7 +513,7 @@
   access
   ========================*/
   .access {
-    background-image: url(/img/map.png);
+    background-image: url(https://github.com/ToruMuto/signsplus/blob/main/img/map.png?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
